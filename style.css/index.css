@@ -208,5 +208,9 @@ font-weight: bold;
   label[for="email"],label[for="name"] {
     font-size: 30px;
   }
+  /* footer section start */
+  .footer{
+    symbols: none;
+  }
   
    
