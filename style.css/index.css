@@ -49,3 +49,34 @@ color: #ffffff;
    justify-content: center;
    margin:0 auto;
 }
+/* see section start */
+.see-it{
+  display: flex;
+  align-items: center;
+  gap:280px;
+  max-width: 1140px;
+  height: 328px;
+  margin: 116px auto;
+}
+.see-section{
+   
+}
+.see-title{
+  font-size: 42px;
+  font-weight: 700;
+}
+.see-para{
+  color: #252432;
+  font-size:24px;
+}
+.btn-see{
+  background-color: #3029f8;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding:10px 30px;
+}
+.see-image{
+  border-radius:48px;
+   
+}
