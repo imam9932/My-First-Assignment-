@@ -166,3 +166,47 @@ font-weight: bold;
    justify-content: center;
     
   }
+  /* section let's get start */
+  .let-content{
+    max-width: 1140px;
+    height: 632px;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+    
+  }
+  .let{
+    font-size: 80px;
+    font-weight: bold;
+  }
+  input[type="email"],input[type="text"],textarea{
+    height: 64px;
+    border-radius: 10px;
+    background-color: #e4dede;
+    display: block;
+    width: 100%;
+    padding:10px 20px;
+    margin-top: 15px;
+     margin-bottom: 24px;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .btn-get{
+    background-color: #3029f8;
+    color: #e4dede;
+    width: 100%;
+    height: 100%;
+    margin-left: 20px;
+    padding:10px 0;
+    font-size: 20px;
+    border:none;
+    border-radius: 10px;
+
+  }
+  label[for="email"],label[for="name"] {
+    font-size: 30px;
+  }
+  
+   
