@@ -37,6 +37,16 @@ color: #ffffff;
   display: flex;
    align-items: center;
    justify-content: center;
+   margin-bottom: 0px;
+}
+.cool-para-2{
+  color: #252432;
+  font-size: 70px;
+  font-weight: 700;
+  display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top:  0px;
 }
 .btn-stay{
   
