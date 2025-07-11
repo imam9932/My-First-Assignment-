@@ -75,6 +75,7 @@ color: #ffffff;
   padding:10px 30px;
 }
 .see-image{
+  display:block;
   border-radius:48px;
    }
    /* joined section start */
@@ -159,11 +160,14 @@ font-weight: bold;
     border: none;
     border-radius: 10px;
   }
-  .webflow-img{
+  .webflow-image{
     margin-top: 30px;
+    margin-left: 140px;
     display: flex;
     align-items: center;
    justify-content: center;
+   display: inline-block;
+   border-radius: 48px;
     
   }
   /* section let's get start */
@@ -209,8 +213,38 @@ font-weight: bold;
     font-size: 30px;
   }
   /* footer section start */
+  .logo-section{
+    max-width: 1440px ;
+    height: 428px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+   justify-content: center;
+  }
+  .footer-logo{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+   font-size: 100px;
+   font-weight: bold;
+   color: #3029f8;
+   margin:0px;
+  }
+  .footer-para{
+    color: #525255;
+    font-size:23px;
+    
+  }
+  .span-para{
+    margin-left: 25px;
+  }
   .footer{
-    symbols: none;
+    color: #8987A1;
+     
+    margin-top: 30px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
   }
   
    
