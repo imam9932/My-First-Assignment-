@@ -1,6 +1,5 @@
 main{
   margin: 0 auto;
-    
   align-items: center;
   justify-content: center;
 }
@@ -40,6 +39,7 @@ color: #ffffff;
    justify-content: center;
 }
 .btn-stay{
+  
   color: #ffffff;
   background-color: #3029f8;
   border-radius: 10px;
@@ -50,6 +50,9 @@ color: #ffffff;
    align-items: center;
    justify-content: center;
    margin:0 auto;
+}
+.btn-header:hover,.btn-stay:hover,.btn-see:hover,.btn-ger:hover,.btn-get:hover{
+  background-color: rgba(12, 12, 12, 0.993);
 }
 /* see section start */
 .see-it{
